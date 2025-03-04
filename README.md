@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Smit Pancholi!
 🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Financial Systems Researcher
 
+## 🏆 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitPancholi&layout=compact&theme=tokyonight)
+
 ## 📊 GitHub Stats
 ![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitPancholi&show_icons=true&theme=radical)
 
