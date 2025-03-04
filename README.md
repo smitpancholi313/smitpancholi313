@@ -6,7 +6,7 @@ I am passionate about uncovering insights from data to drive meaningful decision
 ## 🏆 GitHub Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers,Issues)
 
-## 🔥 About Me
+## 👦 About Me
 - 🎓 **M.S. in Data Science** @ George Washington University
 - 💡 Researching **Multi-LLM Personal Finance Systems**
 - 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
