@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Smit Pancholi!
-🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Financial Systems Researcher
+🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Data Analyst
 
 ## 🏆 GitHub Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers,Issues)
@@ -13,13 +13,13 @@
 - 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
 - 🏆 **Badminton Champion** @ GW (Men's Doubles)
 
-## 🏅 Achievements
-- 🎖 **Winner** - First-ever Badminton Tournament at GWU
-- 🏆 **Completed OpenShift Node Debugging & Resource Management** (Grade: PASS)
-- 🚀 **Internships & Research:**
-  - 🌟 **Graduate Research Assistant** (NLP, Speech-to-Text)
-  - 🏢 **Data Analyst Intern @ Aumento Technologies**
-  - 🧠 **Deep Learning for Music Generation Project**
+## 🏅 Experience
+- 🚀 Internships & Research:
+--🌟 Graduate Research Assistant (NLP, Speech-to-Text)
+--🤖 Machine Learning Engineer Intern @ STL Digital Inc
+
+-💼 Professional Experience:
+-- 📊 Data Analyst @ Aumento Technologies
 
 ## 📂 Featured Projects
 🔹 **[Personal Finance AI System](#)** - Multi-LLM system for budgeting & investments  
