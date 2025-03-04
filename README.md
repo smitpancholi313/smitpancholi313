@@ -51,6 +51,6 @@
 🔹 **[AI-Resistant Assignment Generator](https://github.com/marvelai-org/marvel-ai-backend/tree/Develop/app/tools/ai_resistant_assignment_generator)**  
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smit-pancholi-9118a61a3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smit-pancholi-9118a61a3)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/smitpancholi313)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:smitpancholi0320@gmail.com)
