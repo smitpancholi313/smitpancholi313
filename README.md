@@ -14,7 +14,7 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 ## 💻 Experience
 - 🚀 Internships & Research:
-  - 🌟 Graduate Research Assistant (NLP, Speech-to-Text)
+  - 🌟 Graduate Research Assistant @ George Washington University
   - 🤖 Machine Learning Engineer Intern @ STL Digital Inc
 
 - 💼 Professional Experience:
@@ -44,9 +44,10 @@ I am passionate about uncovering insights from data to drive meaningful decision
 ![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpancholi313&show_icons=true&theme=radical)
 
 ## 📂 Featured Projects
-🔹 **[Personal Finance AI System](#)** - Multi-LLM system for budgeting & investments  
-🔹 **[Credit Card Churn Prediction](#)** - Machine learning model for customer retention  
-🔹 **[AI-Resistant Assignment Generator](https://github.com/marvelai-org/marvel-ai-backend/tree/Develop/app/tools/ai_resistant_assignment_generator)**  
+🔹 [Presidential Chatbot](https://github.com/smitpancholi313/Presidential-Chatbot) - A chatbot for presidential information  
+🔹 [Music Generation Using Deep Neural Networks](https://github.com/smitpancholi313/DeepLearning_FinalProject) - A comprehensive deep learning project  
+🔹 [Visualization of Complex Data](https://github.com/smitpancholi313/Visualization-of-Complex-Data) - Airbnb trends analysis and data visualization  
+🔹 [Credit Card Churn Prediction](https://github.com/smitpancholi313/Project_CreditCardChurn) - Machine learning model for customer retention  
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smit-pancholi-9118a61a3)
