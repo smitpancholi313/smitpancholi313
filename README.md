@@ -16,10 +16,10 @@
 ## 🏅 Experience
 - 🚀 Internships & Research:
   - 🌟 Graduate Research Assistant (NLP, Speech-to-Text)
---🤖 Machine Learning Engineer Intern @ STL Digital Inc
+  - 🤖 Machine Learning Engineer Intern @ STL Digital Inc
 
--💼 Professional Experience:
--- 📊 Data Analyst @ Aumento Technologies
+- 💼 Professional Experience:
+  - 📊 Data Analyst @ Aumento Technologies
 
 ## 📂 Featured Projects
 🔹 **[Personal Finance AI System](#)** - Multi-LLM system for budgeting & investments  
@@ -27,9 +27,7 @@
 🔹 **[AI-Resistant Assignment Generator](https://github.com/marvelai-org/marvel-ai-backend/tree/Develop/app/tools/ai_resistant_assignment_generator)**  
 
 ## 🛠 Skills & Tech
-- **Languages:** Python, SQL, JavaScript  
-- **ML/AI:** TensorFlow, PyTorch, Scikit-Learn  
-- **Tools:** OpenShift, Streamlit, Tableau  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smitpancholi/)  
