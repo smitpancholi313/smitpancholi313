@@ -12,7 +12,7 @@ I am passionate about uncovering insights from data to drive meaningful decision
 - 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
 - 🏆 **Badminton Champion** @ GW (Men's Doubles)
 
-## 🏅 Experience
+## 💻 Experience
 - 🚀 Internships & Research:
   - 🌟 Graduate Research Assistant (NLP, Speech-to-Text)
   - 🤖 Machine Learning Engineer Intern @ STL Digital Inc
@@ -39,10 +39,6 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 ### **☁ Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
-
-### **☁ Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
 ## 📊 GitHub Stats
 ![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpancholi313&show_icons=true&theme=radical)
