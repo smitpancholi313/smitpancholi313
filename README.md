@@ -46,7 +46,7 @@ I am passionate about uncovering insights from data to drive meaningful decision
 ## 📂 Featured Projects
 🔹 [Presidential Chatbot](https://github.com/smitpancholi313/Presidential-Chatbot) - A chatbot for presidential information  
 🔹 [Music Generation Using Deep Neural Networks](https://github.com/smitpancholi313/DeepLearning_FinalProject) - A comprehensive deep learning project  
-🔹 [Visualization of Complex Data](https://github.com/smitpancholi313/Visualization-of-Complex-Data) - Airbnb trends analysis and data visualization  
+🔹 [Airbnb Trends Analysis](https://github.com/smitpancholi313/Visualization-of-Complex-Data) - Visualization of complex data  
 🔹 [Credit Card Churn Prediction](https://github.com/smitpancholi313/Project_CreditCardChurn) - Machine learning model for customer retention  
 
 ## 📫 Let's Connect!
