@@ -15,7 +15,7 @@
 
 ## 🏅 Experience
 - 🚀 Internships & Research:
---🌟 Graduate Research Assistant (NLP, Speech-to-Text)
+  - 🌟 Graduate Research Assistant (NLP, Speech-to-Text)
 --🤖 Machine Learning Engineer Intern @ STL Digital Inc
 
 -💼 Professional Experience:
