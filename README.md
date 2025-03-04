@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Smit Pancholi!
 🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Financial Systems Researcher
 
+## 🏆 GitHub Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true)
+
 ## 🏆 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitpancholi313&layout=compact&theme=tokyonight)
 
