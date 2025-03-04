@@ -4,7 +4,24 @@
 ## 🏆 GitHub Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers,Issues)
 
+## 🔥 About Me
+- 🎓 **M.S. in Data Science** @ George Washington University
+- 💡 Researching **Multi-LLM Personal Finance Systems**
+- 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
+- 🏆 **Badminton Champion** @ GW (Men's Doubles)
+
+## 🏅 Experience
+- 🚀 Internships & Research:
+  - 🌟 Graduate Research Assistant (NLP, Speech-to-Text)
+  - 🤖 Machine Learning Engineer Intern @ STL Digital Inc
+
+- 💼 Professional Experience:
+  - 📊 Data Analyst @ Aumento Technologies
+  
 ## 🛠 Skills & Tech
+
+### **🤖 AI/ML Technologies**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-282C34?style=for-the-badge&logo=langchain&logoColor=yellow) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
 
 ### **📊 Data Analytics**  
 ![ETL](https://img.shields.io/badge/ETL-005571?style=for-the-badge&logo=databricks&logoColor=white) ![Statistical Analysis](https://img.shields.io/badge/Statistics-0081CB?style=for-the-badge&logo=chartdotjs&logoColor=white) ![Dashboard](https://img.shields.io/badge/Dashboards-4A90E2?style=for-the-badge&logo=tableau&logoColor=white)  
@@ -21,22 +38,12 @@
 ### **☁ Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
+
+### **☁ Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
 ## 📊 GitHub Stats
 ![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpancholi313&show_icons=true&theme=radical)
-
-## 🔥 About Me
-- 🎓 **M.S. in Data Science** @ George Washington University
-- 💡 Researching **Multi-LLM Personal Finance Systems**
-- 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
-- 🏆 **Badminton Champion** @ GW (Men's Doubles)
-
-## 🏅 Experience
-- 🚀 Internships & Research:
-  - 🌟 Graduate Research Assistant (NLP, Speech-to-Text)
-  - 🤖 Machine Learning Engineer Intern @ STL Digital Inc
-
-- 💼 Professional Experience:
-  - 📊 Data Analyst @ Aumento Technologies
 
 ## 📂 Featured Projects
 🔹 **[Personal Finance AI System](#)** - Multi-LLM system for budgeting & investments  
