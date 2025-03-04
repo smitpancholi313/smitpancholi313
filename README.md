@@ -50,6 +50,4 @@ I am passionate about uncovering insights from data to drive meaningful decision
 🔹 [Credit Card Churn Prediction](https://github.com/smitpancholi313/Project_CreditCardChurn) - Machine learning model for customer retention  
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smit-pancholi-9118a61a3)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/smitpancholi313)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:smitpancholi0320@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smit-pancholi-9118a61a3) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/smitpancholi313) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:smitpancholi0320@gmail.com)
