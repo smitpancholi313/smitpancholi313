@@ -2,7 +2,7 @@
 🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Financial Systems Researcher
 
 ## 🏆 GitHub Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true)
+=![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers)
 
 ## 📊 GitHub Stats
 ![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpancholi313&show_icons=true&theme=radical)
