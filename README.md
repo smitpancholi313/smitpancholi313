@@ -4,9 +4,6 @@
 ## 🏆 GitHub Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true)
 
-## 🏆 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitpancholi313&layout=compact&theme=tokyonight)
-
 ## 📊 GitHub Stats
 ![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitpancholi313&show_icons=true&theme=radical)
 
