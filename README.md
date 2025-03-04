@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Smit Pancholi!
 🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Financial Systems Researcher
 
+## 📊 GitHub Stats
+![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitPancholi&show_icons=true&theme=radical)
+
 ## 🔥 About Me
 - 🎓 **M.S. in Data Science** @ George Washington University
 - 💡 Researching **Multi-LLM Personal Finance Systems**
