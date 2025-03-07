@@ -7,18 +7,18 @@ I am passionate about uncovering insights from data to drive meaningful decision
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers,Issues)
 
 ## 👦 About Me
-- 🎓 **M.S. in Data Science** @ George Washington University
+- 🎓 **M.S. in Data Science** @ George Washington University (Aug 2023 - May 2025)
 - 💡 Researching **Multi-LLM Personal Finance Systems**
 - 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
 - 🏆 **Badminton Champion** @ GW (Men's Doubles)
 
 ## 💻 Experience
 - 🚀 Internships & Research:
-  - 🌟 Graduate Research Assistant @ George Washington University
-  - 🤖 Machine Learning Engineer Intern @ STL Digital Inc
+  - 🌟 Graduate Research Assistant @ George Washington University (Feb 2025 - Present)
+  - 🤖 Machine Learning Engineer Intern @ STL Digital Inc (Oct 2024 - Dec 2024)
 
 - 💼 Professional Experience:
-  - 📊 Data Analyst @ Aumento Technologies
+  - 📊 Data Analyst @ Aumento Technologies (Nov 2021 - July 2023)
   
 ## 🛠 Skills & Tech
 
