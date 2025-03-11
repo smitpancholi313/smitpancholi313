@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Smit Pancholi!
 🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Data Analyst
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=smitpancholi313.smitpancholi313)
+
 I am passionate about uncovering insights from data to drive meaningful decisions. The endless possibilities that AI and Machine Learning offer to solve complex real-world problems inspire me to innovate and experiment. With a strong foundation in data analysis, I aim to help organizations leverage their data for growth and efficiency.
 
 ## 🏆 GitHub Achievements
