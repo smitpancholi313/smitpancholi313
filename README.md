@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Smit Pancholi! [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white)](https://smitpancholi.vercel.app/))
+# 👋 Hi, I'm Smit Pancholi! [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white)](https://smitpancholi.vercel.app/)
 
 🚀 Data Scientist | 📊 AI & ML Enthusiast | 🎯 Data Analyst
 
