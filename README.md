@@ -14,7 +14,7 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 ## 💻 Experience
 - 🚀 Internships & Research:
-  - 🌟 Graduate Research Assistant @ George Washington University (Feb 2025 - Present)
+  - 🌟 Graduate Research Assistant @ George Washington University (Jan 2025 - April 2025)
   - 🤖 Machine Learning Engineer Intern @ STL Digital Inc (Oct 2024 - Dec 2024)
 
 - 💼 Professional Experience:
