@@ -8,7 +8,7 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 ## 👦 About Me
 - 🎓 **M.S. in Data Science** @ George Washington University (Aug 2023 - May 2025)
-- 💡 Researching **Multi-LLM Personal Finance Systems**
+- 💡 Researching **Multi-LLM Personal Finance Systems** (Paper Under Review)
 - 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
 - 🏆 **Badminton Champion** @ GW (Men's Doubles)
 
