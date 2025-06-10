@@ -7,6 +7,16 @@ I am passionate about uncovering insights from data to drive meaningful decision
 ## 🏆 GitHub Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers,Issues)
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shashank-Shivakumar&show_icons=true&theme=react&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Shashank-Shivakumar&theme=react&hide_border=true" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Shivakumar&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
 ## 👦 About Me
 - 🎓 **M.S. in Data Science** @ George Washington University (Aug 2023 - May 2025)
 - 💡 Researching **Multi-LLM Personal Finance Systems** (Paper Under Review)
