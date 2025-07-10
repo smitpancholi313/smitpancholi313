@@ -52,6 +52,7 @@ I am passionate about uncovering insights from data to drive meaningful decision
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📂 Featured Projects
+🔹 [Capstone: Multi-Agent AI System for Personal Finance] (https://github.com/smitpancholi313/Capstone_Project) - Intelligent budget classification and optimization platform
 🔹 [Presidential Chatbot](https://github.com/smitpancholi313/Presidential-Chatbot) - A chatbot for presidential information  
 🔹 [Music Generation Using Deep Neural Networks](https://github.com/smitpancholi313/DeepLearning_FinalProject) - A comprehensive deep learning project  
 🔹 [Airbnb Trends Analysis](https://github.com/smitpancholi313/Visualization-of-Complex-Data) - Visualization of complex data  
