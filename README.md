@@ -53,7 +53,6 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 ## 📂 Featured Projects
 🔹 [Capstone: Multi-Agent AI System for Personal Finance](https://github.com/smitpancholi313/Capstone_Project) - Intelligent budget classification and optimization platform
-
 🔹 [Presidential Chatbot](https://github.com/smitpancholi313/Presidential-Chatbot) - A chatbot for presidential information  
 🔹 [Music Generation Using Deep Neural Networks](https://github.com/smitpancholi313/DeepLearning_FinalProject) - A comprehensive deep learning project  
 🔹 [Airbnb Trends Analysis](https://github.com/smitpancholi313/Visualization-of-Complex-Data) - Visualization of complex data  
