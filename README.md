@@ -9,7 +9,6 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smitpancholi313&show_icons=true&theme=react&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=smitpancholi313&theme=react&hide_border=true" width="49%" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=smitpancholi313&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true" alt="Activity Graph" />
