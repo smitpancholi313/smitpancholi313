@@ -6,23 +6,12 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers,Issues)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-bg=true&no-frame=true&exclude=Stars,Followers,Issues&cache_seconds=21600)
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=smitpancholi313&theme=react&hide_border=true&cache_seconds=21600)
 
-<img
-  src="https://streak-stats.demolab.com?user=smitpancholi313&theme=react&hide_border=true&cache_seconds=21600"
-  width="49%"
-  alt="GitHub Streak"
-/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smitpancholi313&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true)
 
-<img
-  src="https://github-readme-activity-graph.cyclic.app/graph?username=smitpancholi313&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true"
-  width="100%"
-  alt="Activity Graph"
-/>
-
-</div>
 
 ---
 ## 👦 About Me
