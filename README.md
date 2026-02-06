@@ -6,12 +6,8 @@ I am passionate about uncovering insights from data to drive meaningful decision
 
 ## 🏆 GitHub Achievements
 
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
-  />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=smitpancholi313&theme=react&hide_border=true&cache_seconds=21600)
