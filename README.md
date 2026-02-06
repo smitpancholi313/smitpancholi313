@@ -4,31 +4,11 @@
 
 I am passionate about uncovering insights from data to drive meaningful decisions. The endless possibilities that AI and Machine Learning offer to solve complex real-world problems inspire me to innovate and experiment. With a strong foundation in data analysis, I aim to help organizations leverage their data for growth and efficiency.
 
-## 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=smitpancholi313&theme=onedark&no-frame=true&no-bg=true&cache_seconds=21600)
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=smitpancholi313&theme=react&hide_border=true&cache_seconds=21600)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smitpancholi313&bg_color=1a1b27&color=08E8DE&line=08E8DE&point=ffffff&hide_border=true)
-
-
 ---
 ## 👦 About Me
 - 🎓 **M.S. in Data Science** @ George Washington University (Aug 2023 - May 2025)
 - 💡 Researching **Multi-LLM Personal Finance Systems** (Paper Under Review)
-- 🤖 Working on **Speech-to-Text Transcription for Mental Health Podcasts**
 - 🏆 **Badminton Champion** @ GW (Men's Doubles)
-
-## 💻 Experience
-- 🚀 Internships & Research:
-  - 🌟 Graduate Research Assistant @ George Washington University (Jan 2025 - April 2025)
-  - 🤖 Machine Learning Engineer Intern @ STL Digital Inc (Oct 2024 - Dec 2024)
-
-- 💼 Professional Experience:
-  - 📊 Data Analyst @ Aumento Technologies (Nov 2021 - July 2023)
   
 ## 🛠 Skills & Tech
 
@@ -58,4 +38,4 @@ I am passionate about uncovering insights from data to drive meaningful decision
 🔹 [Credit Card Churn Prediction](https://github.com/smitpancholi313/Project_CreditCardChurn) - Machine learning model for customer retention  
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smit-pancholi-9118a61a3) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/smitpancholi313) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:smitpancholi0320@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smit-pancholi) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/smitpancholi313) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:smitpancholi0320@gmail.com)
